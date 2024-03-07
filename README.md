@@ -6,3 +6,4 @@ Turtle Controller is an application that allows you to control a turtle on the b
 3. Refresh source by: source install/setup.bash
 4. In the first console window type: ros2 run turtlesim turtlesim_node
 5. In the second console window type: ros2 run [your_name_of_controller from ros2 installation] turtle-controller
+6. Insert coordinates[x,y] to move turtle
